@@ -1,0 +1,23 @@
+{
+  "name": "crypto-port-app.github.io",
+  "version": "1.0.0",
+  "description": "Product demo of the Crypto Port website, including it's REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crypto-Port-App/Crypto-Port-App.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypto-Port-App/Crypto-Port-App.github.io/issues"
+  },
+  "homepage": "https://github.com/Crypto-Port-App/Crypto-Port-App.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
